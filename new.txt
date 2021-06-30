@@ -1,0 +1,7 @@
+
+Lab2--- NSIA Wifi password
+2ndLab@NSIA.6742
+Super password of postgresql :  
+gdps
+port number for postgresql: 
+5432
